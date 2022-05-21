@@ -12,7 +12,7 @@ A shopping Mall experiencing some decline and stagnation in some areas of produc
 
 Objective 
 
-The goal of this project is to:
+The objective of this project is to:
 1.	Perform an exploratory analysis on the dataset.
 2.	Check that the assumptions K-means makes are fulfilled.
 3.	Apply K-means clustering algorithm to segment customers
