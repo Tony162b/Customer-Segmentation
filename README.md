@@ -42,7 +42,11 @@ The csv file corresponding used herein was downloaded from Kaggle repository.
 Data Dictionary
 
 CustomerID: It is the unique ID given to a customer
+
 Gender: Gender of the customer
+
 Age: The age of the customer
+
 Annual Income(k$): It is the annual income of the customer
+
 Spending Score: It is the score (out of 100) given to a customer by the mall authorities, based on the money spent and the behavior of the customer.
