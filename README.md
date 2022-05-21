@@ -34,12 +34,15 @@ Dependencies
     seaborn
     
     jupyter notebook
+    
 
 Data set Information
 
 The csv file corresponding used herein was downloaded from Kaggle repository. 
 
+
 Data Dictionary
+
 
 CustomerID: It is the unique ID given to a customer
 
