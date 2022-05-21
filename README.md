@@ -1,10 +1,48 @@
 # Customer-Segmentation
 
 
-In this project, the mall owners have noticed stagnation in sales and profit and to resolve this and increase profit. They decided to consult with a data scientist to use ML and AI to help segment their customers to help strategize sales.
+Read the posts related to this project on Medium:
 
-I will be performing customer segmentation with AI and ML to promote sales and increase profit. I will be using K-Means clustering, an unsupervised machine learning algorithm, to group the customers into the most profitable segments that will make it easy to target.
+•	Using machine learning to understand customers behavior
+•	How to measure distances in machine learning
 
-K-Means clustering is an unsupervised machine learning algorithm that divides the given data into the given number of clusters. Here, the “K” is the given number of predefined groups that we need to create.
+Introduction
 
-K-Means is straightforward to implement. It is highly scalable can be applied to both small and large datasets. There is, however, a problem with choosing the number of clusters or K. Also, with the increase in dimensions, stability decreases. But overall, K Means is a simple and robust algorithm that makes clustering very easy.
+A shopping Mall experiencing some decline and stagnation in some areas of product sales and profit is seeking ways to revamp the product sales and increase profit. To make this happen, the company is seeking to use AI and Machine learning to segment its customers base to enable them to be more efficient in terms of time, money, and other resources.
+
+Objective 
+
+The goal of this project is to:
+1.	Perform an exploratory analysis on the dataset.
+2.	Check that the assumptions K-means makes are fulfilled.
+3.	Apply K-means clustering algorithm to segment customers
+
+Dependencies
+
+   Python >3.4
+   
+    pandas
+    
+    numpy
+    
+    scipy
+    
+    scikit-learn
+    
+    matplotlib
+    
+    seaborn
+    
+    jupyter notebook
+
+Data set Information
+
+The csv file corresponding used herein was downloaded from Kaggle repository. 
+
+Data Dictionary
+
+CustomerID: It is the unique ID given to a customer
+Gender: Gender of the customer
+Age: The age of the customer
+Annual Income(k$): It is the annual income of the customer
+Spending Score: It is the score (out of 100) given to a customer by the mall authorities, based on the money spent and the behavior of the customer.
