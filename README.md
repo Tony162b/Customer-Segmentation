@@ -39,7 +39,8 @@ Dependencies
 Data set Information
 
 The csv file corresponding used herein was downloaded from Kaggle repository. 
-Dataset: mall-customers
+
+Dataset: https://www.kaggle.com/datasets/shwetabh123/mall-customers
 
 
 
